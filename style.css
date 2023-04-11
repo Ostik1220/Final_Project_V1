@@ -60,8 +60,13 @@
         overflow: scroll;
         position: relative;
        transition: all 1s; 
+       
     }
 
     img {
         width: 100%;
+    }
+
+    .price{
+        color: lightgreen;
     }

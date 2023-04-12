@@ -70,3 +70,13 @@
     .price{
         color: lightgreen;
     }
+
+    .input{
+      width: 100px;
+
+    }
+
+    .bill{
+     color: aquamarine;
+
+    }
